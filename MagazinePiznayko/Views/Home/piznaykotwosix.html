@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/vanilla.css">
+    <base href="/">
+    <title>Познайко</title>
+    <script src=http://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js></script>
+</head>
+<body>
+    <script type="text/javascript">
+$(function(){
+$(window).scroll(function() {
+var top = $(document).scrollTop();
+if (top < 399) $(".strip").css({top: '0', position: 'relative'});
+else $(".strip").css({top: '0', position: 'fixed'});      
+});
+});
+</script>
+    <div class="main_container">
+        <header>
+            <a href="Index.html"><div class="logo"></div></a>
+           <nav>
+               <div class="strip">
+                   <div class="iconmenu"><div class="iconmenu-content">
+                    <a href="#">Головна</a>
+                    <a href="#">Контакти</a>
+                    <a href="#">Дитячі свята</a>
+                      <a href="#">Батькам</a>
+                      <a href="#">Педагогам</a>
+                  </div>
+                   </div>
+                   <div class="text">
+            <ul>
+                <li><a href="index.html">Познайко</a></li>
+                <li><a href="posnayko.html">Posnayko</a></li>
+                <li class="selected"><a href="piznaykotwosix.html">Пізнайко від 2 до 6</a></li>
+                <li><a href="piznaykosix.html">Пізнайко від 6</a></li>
+            </ul>
+                   </div>
+                   <div class="iconprofile"></div>
+               </div>
+            </nav>
+        </header>
+        <div class="content">
+            <div>
+            <div class="poster"><img src="images/magmedv.png">Ціна: 30.00 грн</div>
+            
+                <div class="text">
+                     <h1>Тема номера: Весняні казки</h1>
+                    <h5>Пізнайко від 2 до 6, №3, 2017 р.</h5>
+                    <p>Що таке весна? Це сонний їжачок, що прокинувся після зимового сну. Зайчата, білочки й навіть вередлива ласка, що змінюють свої теплі шубки. Це солодкий березовий сік і, звісно, мацюпуські чарівні чоловічки, що розтоплюють на річці кригу та розпушують бруньки на деревах. А ще… ще нові фейчики, які з’явилися разом із первоцвітами. І неодмінно весна – це свіжий номер «Пізнайко від 2 до 6»! Адже саме у ньому ти знайдеш казочки про згаданих героїв, пограєшся в забавки за сюжетом історій та навіть почаруєш завдяки незвичній весняній аплікації! Насолоджуйся березневим теплом на сторінках «Пізнайко від 2 до 6»!</p>
+            </div>
+            <div class="buttonzakaz"></div>
+            </div>
+            
+            <div class="about">
+        <div class="picture_about"><img src="images/twopic1.png">Як ласка бажала стати особливою</div>
+        <div class="picture_about"><img src="images/twopic2.png">Що снилося їжачкові?</div>
+        <div class="picture_about"><img src="images/twopic3.png">Як фея зустріла весну</div>
+        </div>
+            <div class="bookslist">
+                <p>-Попередні випуски-</p>
+            </div>
+        </div>
+        
+        
+        <footer>
+        <p>2017 - Copyright All Right Reserved. Designed and Developed by Strelets Nikita.</p>
+        </footer> 
+    </div>
+    
+</body>
+</html>

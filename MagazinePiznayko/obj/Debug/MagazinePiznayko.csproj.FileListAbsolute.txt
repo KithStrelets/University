@@ -1,0 +1,344 @@
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\ApplicationInsights.config
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\roslyn\csc.exe
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\roslyn\System.Collections.Immutable.dll
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\roslyn\vbc.exe
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\roslyn\VBCSCompiler.exe
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\roslyn\VBCSCompiler.exe.config
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\MagazinePiznayko.dll.config
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\MagazinePiznayko.dll
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\MagazinePiznayko.pdb
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.AI.Web.dll
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.AI.WindowsServer.dll
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.ApplicationInsights.dll
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.Web.Infrastructure.dll
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\System.Web.Helpers.dll
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\System.Web.Mvc.dll
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\System.Web.Razor.dll
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\System.Web.Webpages.Deployment.dll
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\System.Web.Webpages.dll
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\System.Web.Webpages.Razor.dll
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.AI.Web.xml
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.AI.WindowsServer.xml
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.ApplicationInsights.xml
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\System.Web.Razor.xml
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\System.Web.Webpages.xml
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\System.Web.Webpages.Deployment.xml
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\System.Web.Webpages.Razor.xml
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\System.Web.Helpers.xml
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\bin\System.Web.Mvc.xml
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\obj\Debug\MagazinePiznayko.csprojResolveAssemblyReference.cache
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\obj\Debug\MagazinePiznayko.dll
+c:\users\никита\documents\visual studio 2015\Projects\MagazinePiznayko\MagazinePiznayko\obj\Debug\MagazinePiznayko.pdb
+G:\MagazinePiznayko\MagazinePiznayko\bin\ApplicationInsights.config
+G:\MagazinePiznayko\MagazinePiznayko\bin\roslyn\csc.exe
+G:\MagazinePiznayko\MagazinePiznayko\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\MagazinePiznayko\MagazinePiznayko\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\MagazinePiznayko\MagazinePiznayko\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\MagazinePiznayko\MagazinePiznayko\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\MagazinePiznayko\MagazinePiznayko\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\MagazinePiznayko\MagazinePiznayko\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\MagazinePiznayko\MagazinePiznayko\bin\roslyn\System.Collections.Immutable.dll
+G:\MagazinePiznayko\MagazinePiznayko\bin\roslyn\System.Reflection.Metadata.dll
+G:\MagazinePiznayko\MagazinePiznayko\bin\roslyn\vbc.exe
+G:\MagazinePiznayko\MagazinePiznayko\bin\roslyn\VBCSCompiler.exe
+G:\MagazinePiznayko\MagazinePiznayko\bin\roslyn\VBCSCompiler.exe.config
+G:\MagazinePiznayko\MagazinePiznayko\bin\MagazinePiznayko.dll.config
+G:\MagazinePiznayko\MagazinePiznayko\bin\MagazinePiznayko.dll
+G:\MagazinePiznayko\MagazinePiznayko\bin\MagazinePiznayko.pdb
+G:\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.AI.Agent.Intercept.dll
+G:\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.AI.DependencyCollector.dll
+G:\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.AI.Web.dll
+G:\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.AI.WindowsServer.dll
+G:\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.ApplicationInsights.dll
+G:\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.Web.Infrastructure.dll
+G:\MagazinePiznayko\MagazinePiznayko\bin\System.Web.Helpers.dll
+G:\MagazinePiznayko\MagazinePiznayko\bin\System.Web.Mvc.dll
+G:\MagazinePiznayko\MagazinePiznayko\bin\System.Web.Razor.dll
+G:\MagazinePiznayko\MagazinePiznayko\bin\System.Web.Webpages.Deployment.dll
+G:\MagazinePiznayko\MagazinePiznayko\bin\System.Web.Webpages.dll
+G:\MagazinePiznayko\MagazinePiznayko\bin\System.Web.Webpages.Razor.dll
+G:\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.AI.DependencyCollector.xml
+G:\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.AI.Web.xml
+G:\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.AI.WindowsServer.xml
+G:\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.ApplicationInsights.xml
+G:\MagazinePiznayko\MagazinePiznayko\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\MagazinePiznayko\MagazinePiznayko\bin\System.Web.Razor.xml
+G:\MagazinePiznayko\MagazinePiznayko\bin\System.Web.Webpages.xml
+G:\MagazinePiznayko\MagazinePiznayko\bin\System.Web.Webpages.Deployment.xml
+G:\MagazinePiznayko\MagazinePiznayko\bin\System.Web.Webpages.Razor.xml
+G:\MagazinePiznayko\MagazinePiznayko\bin\System.Web.Helpers.xml
+G:\MagazinePiznayko\MagazinePiznayko\bin\System.Web.Mvc.xml
+G:\MagazinePiznayko\MagazinePiznayko\obj\Debug\MagazinePiznayko.csprojResolveAssemblyReference.cache
+G:\MagazinePiznayko\MagazinePiznayko\obj\Debug\MagazinePiznayko.dll
+G:\MagazinePiznayko\MagazinePiznayko\obj\Debug\MagazinePiznayko.pdb
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\ApplicationInsights.config
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\csc.exe
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\vbc.exe
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\VBCSCompiler.exe
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\MagazinePiznayko.dll.config
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\MagazinePiznayko.dll
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\MagazinePiznayko.pdb
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.Web.dll
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Helpers.dll
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Mvc.dll
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Razor.dll
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.dll
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.Razor.dll
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.Web.xml
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Razor.xml
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.xml
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.Razor.xml
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Helpers.xml
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Mvc.xml
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\obj\Debug\MagazinePiznayko.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\obj\Debug\MagazinePiznayko.dll
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\obj\Debug\MagazinePiznayko.pdb
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\EntityFramework.dll
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\EntityFramework.SqlServer.dll
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\EntityFramework.xml
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\MagazinePiznayko\MagazinePiznayko01\MagazinePiznayko\bin\EntityFramework.SqlServer.xml
+G:\MagazinePiznayko01\MagazinePiznayko\bin\ApplicationInsights.config
+G:\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\csc.exe
+G:\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\System.Collections.Immutable.dll
+G:\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\System.Reflection.Metadata.dll
+G:\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\vbc.exe
+G:\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\VBCSCompiler.exe
+G:\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\VBCSCompiler.exe.config
+G:\MagazinePiznayko01\MagazinePiznayko\bin\MagazinePiznayko.dll.config
+G:\MagazinePiznayko01\MagazinePiznayko\bin\MagazinePiznayko.dll
+G:\MagazinePiznayko01\MagazinePiznayko\bin\MagazinePiznayko.pdb
+G:\MagazinePiznayko01\MagazinePiznayko\bin\EntityFramework.dll
+G:\MagazinePiznayko01\MagazinePiznayko\bin\EntityFramework.SqlServer.dll
+G:\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.Agent.Intercept.dll
+G:\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.DependencyCollector.dll
+G:\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.Web.dll
+G:\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.WindowsServer.dll
+G:\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.ApplicationInsights.dll
+G:\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.Web.Infrastructure.dll
+G:\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Helpers.dll
+G:\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Mvc.dll
+G:\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Razor.dll
+G:\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.Deployment.dll
+G:\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.dll
+G:\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.Razor.dll
+G:\MagazinePiznayko01\MagazinePiznayko\bin\EntityFramework.xml
+G:\MagazinePiznayko01\MagazinePiznayko\bin\EntityFramework.SqlServer.xml
+G:\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.DependencyCollector.xml
+G:\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.Web.xml
+G:\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.WindowsServer.xml
+G:\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.ApplicationInsights.xml
+G:\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Razor.xml
+G:\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.xml
+G:\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.Deployment.xml
+G:\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.Razor.xml
+G:\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Helpers.xml
+G:\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Mvc.xml
+G:\MagazinePiznayko01\MagazinePiznayko\obj\Debug\MagazinePiznayko.csprojResolveAssemblyReference.cache
+G:\MagazinePiznayko01\MagazinePiznayko\obj\Debug\MagazinePiznayko.dll
+G:\MagazinePiznayko01\MagazinePiznayko\obj\Debug\MagazinePiznayko.pdb
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\ApplicationInsights.config
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\csc.exe
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\vbc.exe
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\VBCSCompiler.exe
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\MagazinePiznayko.dll.config
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\MagazinePiznayko.dll
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\MagazinePiznayko.pdb
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\EntityFramework.dll
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\EntityFramework.SqlServer.dll
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.Web.dll
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Helpers.dll
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Mvc.dll
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Razor.dll
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.dll
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.Razor.dll
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\EntityFramework.xml
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\EntityFramework.SqlServer.xml
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.Web.xml
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Razor.xml
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.xml
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.Razor.xml
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Helpers.xml
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Mvc.xml
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\obj\Debug\MagazinePiznayko.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\obj\Debug\MagazinePiznayko.dll
+C:\Users\Никита\Desktop\MagazinePiznayko01\MagazinePiznayko\obj\Debug\MagazinePiznayko.pdb
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\ApplicationInsights.config
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\csc.exe
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\System.Collections.Immutable.dll
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\System.Reflection.Metadata.dll
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\vbc.exe
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\VBCSCompiler.exe
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\VBCSCompiler.exe.config
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\MagazinePiznayko.dll.config
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\MagazinePiznayko.dll
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\MagazinePiznayko.pdb
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\EntityFramework.dll
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\EntityFramework.SqlServer.dll
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.Agent.Intercept.dll
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.DependencyCollector.dll
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.PerfCounterCollector.dll
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.ServerTelemetryChannel.dll
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.Web.dll
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.WindowsServer.dll
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.ApplicationInsights.dll
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.Web.Infrastructure.dll
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Helpers.dll
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Mvc.dll
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Razor.dll
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.Deployment.dll
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.dll
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.Razor.dll
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\EntityFramework.xml
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\EntityFramework.SqlServer.xml
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.DependencyCollector.xml
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.ServerTelemetryChannel.xml
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.Web.xml
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.WindowsServer.xml
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.ApplicationInsights.xml
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Razor.xml
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.xml
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.Deployment.xml
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.Razor.xml
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Helpers.xml
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Mvc.xml
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\obj\Debug\MagazinePiznayko.csprojResolveAssemblyReference.cache
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\obj\Debug\MagazinePiznayko.dll
+J:\2016\Курсова_Робота_Стрелець_М_М_ІТ-51\MagazinePiznayko01\MagazinePiznayko\obj\Debug\MagazinePiznayko.pdb
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\ApplicationInsights.config
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\csc.exe
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\vbc.exe
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\VBCSCompiler.exe
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\MagazinePiznayko.dll.config
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\MagazinePiznayko.dll
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\MagazinePiznayko.pdb
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\EntityFramework.dll
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\EntityFramework.SqlServer.dll
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.Web.dll
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Helpers.dll
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Mvc.dll
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Razor.dll
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.dll
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.Razor.dll
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\EntityFramework.xml
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\EntityFramework.SqlServer.xml
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.Web.xml
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Razor.xml
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.xml
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Webpages.Razor.xml
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Helpers.xml
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\System.Web.Mvc.xml
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\obj\Debug\MagazinePiznayko.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\obj\Debug\MagazinePiznayko.dll
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\obj\Debug\MagazinePiznayko.pdb
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\MySql.Data.dll
+C:\Users\Никита\Desktop\NewASP\MagazinePiznayko01\MagazinePiznayko\bin\MySql.Data.Entity.EF6.dll

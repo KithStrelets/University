@@ -1,0 +1,99 @@
+﻿@{
+    ViewBag.Title = "Пізнайко від 6";
+}
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="~/Content/default.css">
+    <base href="/">
+    <title>Познайко</title>
+    <script src=http://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js></script>
+</head>
+<body>
+    <script type="text/javascript">
+        $(function () {
+            $(window).scroll(function () {
+                var top = $(document).scrollTop();
+                if (top < 215) {
+                    $(".strip").css({ top: '0', position: 'relative' });
+                    $(".small_logo").css({ display: 'none', opacity: '0' });
+                    $(".content").css({ margin: '0 0 0' });
+                }
+                else {
+                    $(".strip").css({ top: '0', position: 'fixed' });
+                    $(".small_logo").css({ display: 'inline-block', opacity: '1' });
+                    $(".content").css({ margin: '50px 0 0' });
+                }
+            });
+        });
+    </script>
+    <div class="main_container">
+        <header>
+            @Html.ActionLink("  ", "Index", null, new { @class = "logo" })<div class="ads">
+                <div class="text">
+                    <h1>
+
+                        Листування: а/с 125, м. Київ-50, 04050, Україна
+                        <br>posnayko-referent@niko.kiev.ua
+                        <br>тел: (067) 232-40-34
+                    </h1>
+                </div>
+            </div>
+            <nav>
+                <div class="strip">
+                    <div class="iconmenu">
+                        <div class="iconmenu-content">
+                            @Html.ActionLink("Головна", "Index")
+                            @Html.ActionLink("Контакти", "Contacts")
+                            <a href="#">Дитячі свята</a>
+                            <a href="#">Батькам</a>
+                            <a href="#">Педагогам</a>
+                        </div>
+                    </div>
+                    <div class="text">
+                        <ul>
+                            <div class="small_logo"></div>
+                            <li>@Html.ActionLink("Познайка", "Poznayko")</li>
+                            <li>@Html.ActionLink("Posnayko", "Posnayko")</li>
+                            <li>@Html.ActionLink("Пізнайко від 2 до 6", "Piznaykotwo")</li>
+                            <li class="selected">@Html.ActionLink("Пізнайко від 6", "Piznaykosix")</li>
+                        </ul>
+                    </div>
+                    @Html.ActionLink("  ", "Registr", null, new { @class = "iconprofile" })
+                </div>
+            </nav>
+        </header>
+        <div class="content">
+            <div>
+                <div class="poster"><img src="~/Content/images/magsixyears.jpg">Ціна: 30.00 грн</div>
+
+                <div class="text">
+                    <h1>Тема номера: Прекрасне поруч</h1>
+                    <h5>Пізнайко від 6, №2, 2017 р.</h5>
+                    <p>
+                        Як побачити красу й мистецтво не виходячи з дому? Правильно – розгорнувши березневий номер журналу «Пізнайко від 6»! З’ясуймо, що вважати мистецтвом та чи можна вгледіти його на вулиці! А ще без твоєї допомоги не впораються учні у школі мистецтв і не почнеться вистава в театрі! Ти навчишся говорити компліменти, побуваєш на справжньому венеційському карнавалі, зруйнуєш стереотипи про жіночі й чоловічі професії, дізнаєшся, які емоції нами керують та без чого не буває справжньої дружби. А також зможеш створити незвичайну валентинку.
+                        Запрошуй друзів – і гайда разом розкривати таємниці стосунків!
+                    </p>
+                </div>
+                <div>@Html.ActionLink("  ", "Registr", null, new { @class = "buttonzakaz" })</div>
+            </div>
+
+            <div class="about">
+                <div class="picture_about"><img src="~/Content/images/sixpic1.png">Мистецтво</div>
+                <div class="picture_about"><img src="~/Content/images/sixpic2.png">Музейний переполох</div>
+                <div class="picture_about"><img src="~/Content/images/sixpic3.png">Школа мистецтв</div>
+            </div>
+            <div class="bookslist">
+                <p>-Попередні випуски-</p>
+            </div>
+        </div>
+
+
+        <footer>
+            <p>2017 - Copyright All Right Reserved. Designed and Developed by Strelets Nikita.</p>
+        </footer>
+    </div>
+
+</body>
+</html>

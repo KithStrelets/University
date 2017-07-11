@@ -1,0 +1,189 @@
+﻿@model MagazinePiznayko.Models.Customer
+
+@{
+
+}
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="~/Content/default.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/form.css">
+    <base href="/">
+    <title>Познайко</title>
+    <script src=http://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js></script>
+    <style>       
+            .b-popup-content {
+                position: fixed;
+                left: 39%;
+                top: 50%;
+                width: 300px;
+                height: 40px;
+                padding: 10px;
+                background-color: #c5c5c5;
+                border-radius: 5px;
+                box-shadow: 0px 0px 10px #000;
+                z-index: 90;
+                text-align: center;
+                padding-top:30px;
+            }
+            table {
+            font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+            font-size: 14px;
+            text-align: left;
+            border-collapse: collapse;
+            border-radius: 20px;
+            box-shadow: 0 0 0 5px #6BC054;
+            color: #452F21;
+            }
+            th {
+            padding: 10px 8px;
+            background: white;
+            }
+            table th:first-child {
+            border-top-left-radius: 20px;
+            }
+            table th:last-child {
+            border-top-right-radius: 20px;
+            }
+            td {
+            border-top: 5px solid #6BC054;
+            padding: 8px;
+            background: white;
+            }
+            table td:first-child {
+            border-bottom-left-radius: 20px;
+            }
+            table td:last-child {
+            border-bottom-right-radius: 20px;
+            }
+    </style>
+</head>
+<body>
+    <script type="text/javascript">
+        $(function () {
+            $(window).scroll(function () {
+                var top = $(document).scrollTop();
+                if (top < 215) {
+                    $(".strip").css({ top: '0', position: 'relative' });
+                    $(".small_logo").css({ display: 'none', opacity: '0' });
+                    $(".content").css({ margin: '0 0 0'});
+                }
+                else {
+                    $(".strip").css({ top: '0', position: 'fixed' });
+                    $(".small_logo").css({ display: 'inline-block', opacity: '1' });
+                    $(".content").css({ margin: '50px 0 0'});
+                }
+            });
+        });
+        
+       
+    </script>
+    <div class="main_container">
+        <header >
+           @Html.ActionLink("  ", "Index", null, new { @class = "logo" })<div class="ads">
+            <div class="text">
+                <h1>
+
+                    Листування: а/с 125, м. Київ-50, 04050, Україна 
+                    <br>posnayko-referent@niko.kiev.ua
+                    <br>тел: (067) 232-40-34
+                </h1>
+            </div>
+        </div>
+            <nav>
+                <div class="strip">
+                    <div class="iconmenu">
+                        <div class="iconmenu-content">
+                            @Html.ActionLink("Головна", "Index")
+                            @Html.ActionLink("Контакти", "Contacts")
+                            <a href="#">Дитячі свята</a>
+                            <a href="#">Батькам</a>
+                            <a href="#">Педагогам</a>
+                        </div>
+                    </div>
+                    <div class="text">
+                        <ul>
+                            <div class="small_logo"></div>
+                            <li>@Html.ActionLink("Познайка", "Poznayko")</li>
+                            <li>@Html.ActionLink("Posnayko", "Posnayko")</li>
+                            <li>@Html.ActionLink("Пізнайко від 2 до 6", "Piznaykotwo")</li>
+                            <li>@Html.ActionLink("Пізнайко від 6", "Piznaykosix")</li>
+                        </ul>
+                    </div>
+                    @Html.ActionLink("  ", "Registr", null, new { @class = "iconprofile" })
+                </div>
+            </nav>
+        </header>
+        
+        <div class="content" > 
+            <div style="text-align:center">
+                
+                    
+                    @{
+                        if (ViewBag.data != null)
+                        {
+                            <table style="text-align: center; margin: auto;margin-bottom: 20px; margin-top: 20px; width: 40%; ">
+                                <th>Минулі замовлення @ViewBag.name</th>
+                                @for (int a = 0; a < ViewBag.count; a++)
+                                {
+                                <tr><td>@ViewBag.data[a].ToString();</td></tr>
+                                }
+                            </table>
+                        }
+
+                    }
+                            
+            </div>
+            
+
+            <form class="contact_form" action=@Url.Action("Registr") method="post">
+                <ul>
+                    <li style="margin-left:0% !important">
+                        <h2>Оформити підписку</h2>              
+                    </li>
+                    <br/>
+                    <li>
+                        <label for="name">Ім'я:</label>
+                        <input type="text" placeholder="Пізнайко" required name="name"/>
+                    </li>
+                    <li>
+                        <label for="email">Ваш E-mail:</label>
+                        <input type="email" name="email" placeholder="piznayko@example.com" required/>
+                        <span class="form_hint">Наприклад "name@something.com"</span>
+                    </li>
+                    <li>
+                        <label for="book">Журнал:</label>
+                        
+                        <select name="product">
+                            <option value="Познайка">Познайка</option>
+                            <option value="Posnayko">Posnayko</option>
+                            <option value="Пізнайко від 2 до 6">Пізнайко від 2 до 6</option>
+                            <option value="Пізнайко від 6">Пізнайко від 6</option>
+                        </select>
+                        
+                    </li>
+                    <li>
+                        <label for="message">Додаткова інформація:</label>
+                        <textarea name="description" cols="40" rows="6" style="max-width:678px;"></textarea>
+                    </li>
+                    <br />
+                    <li style="margin-left: 8%; ">
+                        <button class="submit" type="submit">Підписатись</button>
+</li>
+                </ul>
+            </form>
+            
+
+
+</div>
+        
+
+        <footer>
+            <p>2017 - Copyright All Right Reserved. Designed and Developed by Strelets Nikita.</p>
+        </footer>
+    </div>
+
+</body>
+</html>
+

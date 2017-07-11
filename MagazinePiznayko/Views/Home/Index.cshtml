@@ -1,0 +1,153 @@
+﻿@model MagazinePiznayko.Controllers.HomeController
+@{
+    ViewBag.Title = "Головна";
+}
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="~/Content/default.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/slick/slick.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/slick/slick-theme.css">
+    <style type="text/css">
+        * {
+            box-sizing: border-box;
+        }
+
+        .slider {
+            width: 50%;
+            margin: 100px auto;
+        }
+
+        .slick-slide {
+            margin: 0px 20px;
+        }
+
+            .slick-slide img {
+                width: 100%;
+            }
+
+        .slick-prev:before,
+        .slick-next:before {
+            color: black;
+        }
+    </style>
+    <base href="/">
+    <title>Познайко</title>
+    <script src=http://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
+    <script src="~/Content/slick/slick.js" type="text/javascript" charset="utf-8"></script>
+</head>
+<body>
+
+    <script type="text/javascript">
+        $(window).load(function () {
+            $(window).scrollTop(300);
+        });
+
+$(function(){
+$(window).scroll(function()
+                 {
+var top = $(document).scrollTop();
+if (top < 215) {
+    $(".strip").css({top: '0', position: 'relative'});
+    $(".small_logo").css({ display: 'none', opacity: '0' });
+    $(".content").css({ margin: '0 0 0' });
+}
+else {
+    $(".strip").css({top: '0', position: 'fixed'});
+    $(".small_logo").css({ display: 'inline-block', opacity: '1' });
+    $(".content").css({ margin: '50px 0 0'});
+}
+});
+});
+$(document).on('ready', function() {
+      $(".autoplay").slick({
+        dots: true,
+        infinite: true,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 2000,
+        adaptiveHeight: true,
+      });
+    });
+    </script>
+    <div class="main_container">
+        <header>
+            <div>
+                @Html.ActionLink("  ", "Index", null, new { @class = "logo" })<div class="ads">
+                    <div class="text">
+                        <h1>
+
+                            Листування: а/с 125, м. Київ-50, 04050, Україна
+                            <br>posnayko-referent@niko.kiev.ua
+                            <br>тел: (067) 232-40-34
+                        </h1>
+                    </div>
+                </div>
+            </div>
+            <nav>
+                <div class="strip">
+                    <div class="iconmenu">
+
+
+                        <div class="iconmenu-content">
+                            @Html.ActionLink("Головна", "Index")
+                            @Html.ActionLink("Контакти", "Contacts")
+                            <a href="#">Дитячі свята</a>
+                            <a href="#">Батькам</a>
+                            <a href="#">Педагогам</a>
+                        </div>
+
+                    </div>
+                    <div class="text">
+                        <ul>
+                            <div class="small_logo"></div>
+                            <li>@Html.ActionLink("Познайка", "Poznayko")</li>
+                            <li>@Html.ActionLink("Posnayko", "Posnayko")</li>
+                            <li>@Html.ActionLink("Пізнайко від 2 до 6", "Piznaykotwo")</li>
+                            <li>@Html.ActionLink("Пізнайко від 6", "Piznaykosix")</li>
+                        </ul>
+                    </div>
+                    @Html.ActionLink("  ", "Registr", null, new { @class="iconprofile" })
+                </div>
+            </nav>
+        </header>
+        <div class="content">
+
+            <section class="autoplay slider" style="margin-bottom: 90px">
+                <div>
+                    <img src="~/Content/images/magleo.png">
+                </div>
+                <div>
+                    <img src="~/Content/images/magzayac.png">
+                </div>
+                <div>
+                    <img src="~/Content/images/magmedv.png">
+                </div>
+                <div>
+                    <img src="~/Content/images/magsixyears.jpg">
+                </div>
+                <div>
+                    <img src="~/Content/images/1pic.png">
+                </div>
+                <div>
+                    <img src="~/Content/images/2pic.png">
+                </div>
+                <div>
+                    <img src="~/Content/images/3pic.png">
+                </div>
+            </section>
+
+        </div>
+
+
+        <footer>
+            <p> 2017 - Copyright All Right Reserved. Designed and Developed by Strelets Nikita.</p>
+        </footer>
+    </div>
+
+</body>
+</html>

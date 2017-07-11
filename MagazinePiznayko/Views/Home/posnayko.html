@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/vanilla.css">
+    <base href="/">
+    <title>Познайко</title>
+    <script src=http://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js></script>
+</head>
+<body>
+    <script type="text/javascript">
+$(function(){
+$(window).scroll(function() {
+var top = $(document).scrollTop();
+if (top < 399) $(".strip").css({top: '0', position: 'relative'});
+else $(".strip").css({top: '0', position: 'fixed'});      
+});
+});
+</script>
+    <div class="main_container">
+        <header>
+            <a href="Index.html"><div class="logo"></div></a>
+           <nav>
+               <div class="strip">
+                   <div class="iconmenu"><div class="iconmenu-content">
+                    <a href="#">Головна</a>
+                    <a href="#">Контакти</a>
+                    <a href="#">Дитячі свята</a>
+                      <a href="#">Батькам</a>
+                      <a href="#">Педагогам</a>
+                  </div>
+                   </div>
+                   <div class="text">
+            <ul>
+                <li><a href="index.html">Познайко</a></li>
+                <li class="selected"><a href="posnayko.html">Posnayko</a></li>
+                <li><a href="piznaykotwosix.html">Пізнайко від 2 до 6</a></li>
+                <li><a href="piznaykosix.html">Пізнайко від 6</a></li>
+            </ul>
+                   </div>
+                   <div class="iconprofile"></div>
+               </div>
+            </nav>
+        </header>
+        <div class="content">
+            <div>
+            <div class="poster"><img src="images/magzayac.png">Ціна: 28.99 грн</div>
+            
+                <div class="text">
+                     <h1>Тема номера: Про зиму</h1>
+                    <h5>Posnayko, №1, 2013 р.</h5>
+                    <p>Що можна робити взимку? Кататися на санчатах? Грати у сніжки? А ще – вітати усіх з Новим роком та Різдвом! У січневому номері «Posnayko» є розваги на будь-який смак. І про кожну з них можна розповісти англійською. Have winter fun, my friend!
+Виявляється, доки січневі бурульки не розтанули, в них можна вивідати секрети літери Е. А разом зі сніговиками весело грати у футбол та вести рахунок – англійською! В журналі для вивчення англійської мови «Posnayko» – ще й не такі пригоди. Open the magazine and find them!</p>
+            </div>
+            <div class="buttonzakaz"></div>
+            </div>
+            
+            <div class="about">
+        <div class="picture_about"><img src="images/pospic1.png">Наближається Новий рік!</div>
+        <div class="picture_about"><img src="images/pospic2.png">Подарунок туриста</div>
+        <div class="picture_about"><img src="images/pospic3.png">Клац!    Клац! Клац!</div>
+        </div>
+            <div class="bookslist">
+                <p>-Попередні випуски-</p>
+            </div>
+        </div>
+        
+        
+        <footer>
+        <p>2017 - Copyright All Right Reserved. Designed and Developed by Strelets Nikita.</p>
+        </footer> 
+    </div>
+    
+</body>
+</html>

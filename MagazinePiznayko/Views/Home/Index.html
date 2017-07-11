@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="./vanilla.css">
+    <base href="/">
+    <title>Познайко</title>
+    <script src=http://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js></script>
+</head>
+<body>
+     <script type="text/javascript">
+$(function(){
+$(window).scroll(function() {
+var top = $(document).scrollTop();
+if (top < 399) $(".strip").css({top: '0', position: 'relative'});
+else $(".strip").css({top: '0', position: 'fixed'});      
+});
+});
+         $(".iconmenu").click(function(){
+             console.log(5+6);
+             $(".iconmenu ul").toggle(
+         function(){ $(".iconmenu ul").css({display:'block'});}
+             );
+         });
+</script>
+    <div class="main_container">
+        <header>
+            <a href="./Index.html"><div class="logo"></div></a>
+           <nav>
+               <div class="strip">
+                   <div class="iconmenu">
+                    
+                  
+                  <div class="iconmenu-content">
+                    <a href="#">Головна</a>
+                    <a href="#">Контакти</a>
+                    <a href="#">Дитячі свята</a>
+                      <a href="#">Батькам</a>
+                      <a href="#">Педагогам</a>
+                  </div>
+                       
+                   </div>
+                   <div class="text">
+            <ul>
+                <li class="selected"><a href="./Index.html">Познайко</a></li>
+                <li><a href="./posnayko.html">Posnayko</a></li>
+                <li><a href="./piznaykotwosix.html">Пізнайко від 2 до 6</a></li>
+                <li><a href="./piznaykosix.html">Пізнайко від 6</a></li>
+            </ul>
+                   </div>
+                   <div class="iconprofile"></div>
+               </div>
+            </nav>
+        </header>
+        <div class="content">
+            <div>
+            <div class="poster"><img src="./images/magleo.png">Ціна: 25.99 грн</div>
+            
+                <div class="text">
+                     <h1>Тема номера: Про чарівників</h1>
+                    <h5>Пізнайко, №12, 2015 р.</h5>
+                    <p>Передноворічний випуск журналу «Познайка» – суцільний сюрприз. Щойно його розгортаєш – одразу потрапляєш у крижану казку. Читаєш далі – й опиняєшся на святковій арені цирку. Ще декілька сторінок – і от, ти вже граєш у фінальну гру «Володаря Чарівного лісу» та йдеш на Проніну вечірку. А там вухолапохвості друзі ніяк не можуть зрозуміти одне одного, і без тебе їм не обійтись! Як приготувати найсмачніше у світі печиво, літати без гелікоптера й де шукати антарктичних гіпопотамів – усе це теж є в грудневому випуску журналу «Познайка». «Про чарівників» створюють новорічний настрій з перших сторінок!</p>
+            </div>
+            <div class="buttonzakaz"></div>
+            </div>
+            
+            <div class="about">
+        <div class="picture_about"><img src="./images/1pic.png">Скоро праздник!</div>
+        <div class="picture_about"><img src="./images/2pic.png">Ты меня понимаешь?</div>
+        <div class="picture_about"><img src="./images/3pic.png">География всмятку</div>
+        </div>
+            <div class="bookslist">
+                <p>-Попередні випуски-</p>
+            </div>
+        </div>
+        
+        
+        <footer>
+        <p> 2017 - Copyright All Right Reserved. Designed and Developed by Strelets Nikita.</p>
+        </footer> 
+    </div>
+    
+</body>
+</html>
